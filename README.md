@@ -36,6 +36,8 @@ Notebook `1_Data Cleaning` contains the code for general cleaning of the data, l
 
 EDA stands for Exploratory Data Analysis where insights about the data are gathered using data analysis techniques and various statistics are discovered, usually accompanied by graphs and charts. This is contained in the notebook `2_EDA`
 
+<a id='flask'></a>
+
 ### 2.3. Modelling
 
 The final notebook `3_Modelling` consists of combining all the datasets and using the `RandomForestClassifier` to generate predictions about which customer should get the offer based on various parameters.
