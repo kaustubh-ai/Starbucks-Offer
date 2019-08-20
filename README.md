@@ -1,6 +1,7 @@
 
 
 # Starbucks Offer
+Check out my blog post [here](https://medium.com/@__kaustubh__/did-you-get-that-starbucks-offer-8e4908c34c14)
 
 ### Table of Contents
 
