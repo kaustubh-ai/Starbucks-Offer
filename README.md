@@ -1,4 +1,5 @@
 
+
 # Starbucks Offer
 
 ### Table of Contents
@@ -9,6 +10,7 @@
   - [EDA](#ml_pipeline)
   - [Modelling](#flask)
 - [Contribute](#contribute)
+- [Acknowledgement](#ack)
 
 ***
 
@@ -57,3 +59,11 @@ The final notebook `3_Modelling.ipynb` consists of combining all the datasets an
 `git remote add upstream https://github.com/kaustubh-ai/Starbucks-Offer.git`
 
 4.  Create a pull request!
+
+***
+
+<a name="ack"/>
+
+## Acknowledgement
+
+I'd like to thank [Udacity](https://www.udacity.com) for providing me with the dataset and motivation for this project
