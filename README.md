@@ -28,19 +28,19 @@ There are three components in this project:
 
 ### 2.1. Data Cleaning
 
-Notebook `1_Data Cleaning` contains the code for general cleaning of the data, like dealing with NaN values and renaming column names
+Notebook `1_Data Cleaning.ipynb` contains the code for general cleaning of the data, like dealing with NaN values and renaming column names
 
 <a id='ml_pipeline'></a>
 
 ### 2.2. EDA
 
-EDA stands for Exploratory Data Analysis where insights about the data are gathered using data analysis techniques and various statistics are discovered, usually accompanied by graphs and charts. This is contained in the notebook `2_EDA`
+EDA stands for Exploratory Data Analysis where insights about the data are gathered using data analysis techniques and various statistics are discovered, usually accompanied by graphs and charts. This is contained in the notebook `2_EDA.ipynb`
 
 <a id='flask'></a>
 
 ### 2.3. Modelling
 
-The final notebook `3_Modelling` consists of combining all the datasets and using the `RandomForestClassifier` to generate predictions about which customer should get the offer based on various parameters.
+The final notebook `3_Modelling.ipynb` consists of combining all the datasets and using the `RandomForestClassifier` to generate predictions about which customer should get the offer based on various parameters.
 
 ***
 
